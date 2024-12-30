@@ -1,9 +1,9 @@
+![MasterHead](https://www.parzlogic.com/wp![MasterHead](https://www.parzlogic.com/wp-content/uploads/2017/10/web-dev.jpg)
+
 <h1 align="center">Hi 👋, I'm Saad Asif</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saad072&label=Profile%20views&color=0e75b6&style=flat" alt="saad072" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saad072" alt="saad072" /></a> </p>
 
 - 🔭 I’m currently working on **Frappe & ERPNext**
 
