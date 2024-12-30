@@ -1,4 +1,4 @@
-![MasterHead](https://www.parzlogic.com/wp![MasterHead](https://www.parzlogic.com/wp-content/uploads/2017/10/web-dev.jpg)
+[![MasterHead](https://www.parzlogic.com/wp-content/uploads/2017/10/web-dev.jpg)]
 <h1 align="center">Hi 👋, I'm Saad Asif</h1>
 <h3 align="center">A passionate Web Developer from Pakistan</h3>
 
